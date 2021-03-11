@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a class.
+ * This is a class. also i am editing this shit
  */
 public class Greeter {
 
@@ -14,6 +14,6 @@ public class Greeter {
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
-    return String.format("Hello How are you, %s!", someone);
+    return String.format("Hello How are you my g i am editing this hahaha, %s!", someone);
   }
 }
